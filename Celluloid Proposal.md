@@ -27,3 +27,9 @@ Geo: Russia, Chelyabins, GMT/UTC + 05:00
   Google+: https://plus.google.com/u/0/111620516305092059109
 
 #### Background:
+  I start working on my oswn projects from 1 course of Bachelor degree. Now I have several finished projects like Web services and several games. I work like server side programmer with C++, Java and ruby. 
+  
+  
+## Project
+
+## Roadmap
