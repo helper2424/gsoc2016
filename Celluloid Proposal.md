@@ -4,7 +4,7 @@ Name: Eugene Mironov
 
 Geo: Russia, Chelyabins, GMT/UTC + 05:00 
 
-### Contact information
+#### Contact information
 
   Email: helper2424@gmail.com
  
@@ -26,4 +26,4 @@ Geo: Russia, Chelyabins, GMT/UTC + 05:00
   
   Google+: https://plus.google.com/u/0/111620516305092059109
 
-###Background:
+#### Background:
