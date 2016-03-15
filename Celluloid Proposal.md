@@ -57,4 +57,4 @@ Geo: Russia, Chelyabinsk, GMT/UTC + 05:00
 
 ### Week 13
 
-If I finish project 
+If I overtake plan I would like to make benchmarking and optimize some parts of project.
