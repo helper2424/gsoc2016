@@ -2,7 +2,7 @@
 
 Name: Eugene Mironov
 
-Geo: Russia, Chelyabins, GMT/UTC + 05:00 
+Geo: Russia, Chelyabinsk, GMT/UTC + 05:00 
 
 #### Contact information
 
@@ -27,9 +27,34 @@ Geo: Russia, Chelyabins, GMT/UTC + 05:00
   Google+: https://plus.google.com/u/0/111620516305092059109
 
 #### Background:
-  I start working on my oswn projects from 1 course of Bachelor degree. Now I have several finished projects like Web services and several games. I work like server side programmer with C++, Java and ruby. 
+  I start working on my own projects from 1 course of Bachelor degree. Now I have several finished projects like Web services and several games. I work like server side programmer with C++, Java and ruby. 
   
   
 ## Project
+  I plan to implement Dynamic Pools of actors. Idea described here https://github.com/celluloid/GSoC/wiki/Idea:-Dynamic-Pools . All actors inherited from ruby Threads. When Actor 
+  
+#####Implementation Details
 
 ## Roadmap
+
+### Week 1
+
+### Week 2
+
+...
+
+### Midterm
+
+### Week 7-8
+
+### Week 9 
+
+### Week 10
+
+### Week 11
+
+### Week 12
+
+### Week 13
+
+If I finish project 
